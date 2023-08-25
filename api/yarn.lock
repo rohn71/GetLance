@@ -18,9 +18,9 @@
     tar "^6.1.11"
 
 "@types/node@*", "@types/node@>=8.1.0":
-  version "20.5.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.1.tgz#178d58ee7e4834152b0e8b4d30cbfab578b9bb30"
-  integrity sha512-4tT2UrL5LBqDwoed9wZ6N3umC4Yhz3W3FloMmiiG4JwmUJWpie0c7lcnUNd4gtMKuDEO4wRVS8B6Xa0uMRsMKg==
+  version "20.5.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.4.tgz#4666fb40f9974d60c53c4ff554315860ba4feab8"
+  integrity sha512-Y9vbIAoM31djQZrPYjpTLo0XlaSwOIsrlfE3LpulZeRblttsLQRFRlBAppW0LOxyT3ALj2M5vU1ucQQayQH3jA==
 
 "@types/webidl-conversions@*":
   version "7.0.0"
@@ -396,9 +396,9 @@ fs.realpath@^1.0.0:
   integrity sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==
 
 fsevents@~2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
-  integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6"
+  integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
 function-bind@^1.1.1:
   version "1.1.1"
@@ -699,9 +699,9 @@ mongodb@5.7.0:
     saslprep "^1.0.3"
 
 mongoose@^7.4.3:
-  version "7.4.3"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.4.3.tgz#4f7b26e5a1924e06238083fb64fb7b006d0b438c"
-  integrity sha512-eok0lW6mZJHK2vVSWyJb9tUfPMUuRF3h7YC4pU2K2/YSZBlNDUwvKsHgftMOANbokP2Ry+4ylvzAdW4KjkRFjw==
+  version "7.4.4"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.4.4.tgz#e45a02f0cee37e6c5343c95f9ad6feb06187a9a8"
+  integrity sha512-LOOviiEqWOLH4PuBK+jbpm5vjBkdSNBcP/4UCevOJMTl5SXSbCXr68ulEYcthLcN2/xi08452HupKD8BfxNIQw==
   dependencies:
     bson "^5.4.0"
     kareem "2.5.1"
@@ -749,9 +749,9 @@ node-addon-api@^5.0.0:
   integrity sha512-eh0GgfEkpnoWDq+VY8OyvYhFEzBk6jIYbRKdIlyTiAXIVJ8PyBaKb0rp7oDtoddbdoHWhq8wwr+XZ81F1rpNdA==
 
 node-fetch@^2.6.7:
-  version "2.6.13"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.13.tgz#a20acbbec73c2e09f9007de5cda17104122e0010"
-  integrity sha512-StxNAxh15zr77QvvkmveSQ8uCQ4+v5FkvNTj0OESmiHu+VRi/gXArXtkWMElOsOUNLtUEvI4yS+rdtOHZTwlQA==
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.7.0.tgz#d0f0fa6e3e2dc1d27efcd8ad99d550bda94d187d"
+  integrity sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==
   dependencies:
     whatwg-url "^5.0.0"
 
